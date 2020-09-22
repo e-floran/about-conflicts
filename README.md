@@ -1,4 +1,4 @@
-# about-conflicts
+remote
 training
 I don't like conflicts,
 But I will create one,
