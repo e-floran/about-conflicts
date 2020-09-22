@@ -1,4 +1,4 @@
-# about-conflicts
+LOCAL
 training
 I don't like conflicts,
 But I will create one,
